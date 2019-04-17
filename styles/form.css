@@ -1,0 +1,8 @@
+.c-form{
+  width: 100%;
+  height: 46px;
+  background: #fff;
+  border-radius: 3px;
+  border-left-width: 1px;
+  border-left: thick solid #fc0;
+}

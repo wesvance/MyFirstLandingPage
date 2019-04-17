@@ -1,0 +1,10 @@
+.c-btn{
+  display: inline-block;
+  white-space: nowrap;
+  height: 46px;
+  border-radius: 2px;
+  padding: 5px;
+  background-color: #ffcc00;
+  color: black;
+  border: none;
+}
